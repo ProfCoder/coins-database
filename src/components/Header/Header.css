@@ -1,0 +1,16 @@
+.header-url {
+    all: unset;
+}
+
+.header-url:hover {
+    cursor: pointer;
+}
+
+.header {
+    padding: 52px 0;
+}
+
+.header__title {
+    font-size: 50px;
+    font-weight: 300;
+}

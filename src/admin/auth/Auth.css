@@ -1,0 +1,43 @@
+.auth {
+    padding: 52px;
+}
+
+.auth-header {
+    font-size: 50px;
+    font-weight: 300;
+    margin-bottom: 150px;
+}
+
+.auth-wrapper {
+    width: 330px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    
+}
+
+.credentials {
+    margin-bottom: 30px;
+}
+
+.credentials p {
+    margin-bottom: 5px;
+}
+
+.credentials input {
+    width: 300px;
+    padding: 10px;
+}
+
+.admin-button {
+    border: none;
+    background-color: #833AE0;
+    color: #fff;
+    padding: 10px 20px;
+}
+
+.admin-button:hover {
+    cursor: pointer;
+    opacity: 0.8;
+}

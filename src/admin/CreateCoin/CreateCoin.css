@@ -1,0 +1,57 @@
+.new-coin-wrapper {
+    display: flex;
+    justify-content: left;
+}
+
+.new-input {
+    margin: 5px 0 20px 0;
+    padding: 10px 20px;
+    width: 300px;
+}
+
+.textarea {
+    margin: 5px 0 20px 0;
+    padding: 10px 20px;
+    width: 300px;
+    height: 94px;
+}
+
+.second-column {
+    margin-left: 20px;
+}
+
+.third-column {
+    margin-left: 20px;
+}
+
+.new-coin-button {
+    font-size: 14px;
+    font-weight: 400;
+    background-color: #833AE0;
+    color: #fff;
+    border: none;
+    margin-right: 30px;
+    padding: 15px 40px;
+}
+
+.new-coin-button:hover {
+    cursor: pointer;
+    opacity: 0.8;
+    font-weight: 500;
+}
+
+.new-coin-cancel-button {
+    all: unset;
+    font-size: 14px;
+    font-weight: 400;
+    border: none;
+    margin-right: 30px;
+    padding: 15px 40px;
+    background-color: #E1E1E1
+}
+
+.new-coin-cancel-button:hover {
+    cursor: pointer;
+    opacity: 0.8;
+    font-weight: 500;
+}

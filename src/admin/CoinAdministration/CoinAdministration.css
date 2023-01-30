@@ -1,0 +1,98 @@
+.admin-wrapper {
+    margin: 0;
+    padding: 0;
+}
+
+.admin-header {
+    margin: 40px 0 30px 0;
+    font-size: 50px;
+    font-weight: 300;
+}
+
+.admin-coin-item-wrapper {
+    display: flex;
+    align-items: center;
+    margin: 40px 0 30px 0;
+}
+ 
+.button-delete {
+    font-size: 14px;
+    font-weight: 400;
+    background-color: #E5E5E5;
+    border: none;
+    padding: 10px 30px;
+    margin-left: 30px;
+}
+
+.button-delete:hover {
+    cursor: pointer;
+    font-weight: 500;
+    background-color: lightgray;
+}
+
+.button-edit {
+    all: unset;
+    font-size: 14px;
+    font-weight: 400;
+    background-color: #E5E5E5;
+    padding: 10px 35px;
+    margin-left: 30px;
+}
+
+.button-edit:hover {
+    cursor: pointer;
+    font-weight: 500;
+    background-color: lightgray;
+}
+
+.add-coin-wrapper {
+    all: unset;
+    display: flex;
+    align-items: center;
+    margin: 50px 0;
+}
+
+.coin-buttons-wrapper {
+    width: 30%;
+}
+
+.coin-admin-image {
+    width: 15%;
+}
+
+.coin-description {
+    width: 20%;
+}
+
+.add-new-coin {
+    color: #000;
+    font-weight: 300;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    height: 120px;
+    border: 1px solid black;
+    border-radius: 50%;
+    font-size: 20px;
+}
+
+.add-new-coin:hover { 
+    cursor: pointer;
+    background-color:ghostwhite;
+    border: 1px solid gray;
+    font-weight: 400;
+}
+
+.add-new-coin-text {
+    text-decoration: underline;
+    color: #000;
+    margin-left: 30px;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.add-new-coin-text:hover {
+    cursor: pointer;
+    font-weight: 400;
+}

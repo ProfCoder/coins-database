@@ -1,0 +1,41 @@
+.coin-wrapper {
+    padding-bottom: 70px;
+}
+
+.coin-item-url {
+    all:unset;
+    display: inline-block;
+    min-width: 40%;
+}
+
+.coin-item-wrapper {
+    display: flex;
+    margin: 40px 0 30px 0;
+}
+
+.coin-item-wrapper:hover {
+    cursor: pointer;
+    color:#833AE0;
+}
+
+.coin-description {
+    margin-left: 30px;
+}
+
+.coin-item-name {
+    font-size: 16px;
+    font-weight: 700;
+    color: #833AE0;
+    margin-bottom: 10px;
+}
+
+.coin-item-short-text {
+    font-size: 12px;
+    font-weight: 400;
+    width: 224px;
+}
+
+.coin-image {
+    width: 120px;
+}
+

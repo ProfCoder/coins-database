@@ -1,0 +1,36 @@
+.categories {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+
+.category  {
+    min-width: 30%;
+}
+
+.category-name {
+    margin-bottom: 30px;
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.category-url {
+    all: unset;
+    font-size: 14px;
+    font-weight:300;
+    color: #000;
+}
+
+.category-url:hover {
+    cursor: pointer;
+    font-weight:500;
+    text-decoration: underline;
+}
+
+.show-all {
+    margin-bottom: 10px;
+}
+
+.category-image {
+    width: 214px;
+}

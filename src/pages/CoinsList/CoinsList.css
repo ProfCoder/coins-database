@@ -1,0 +1,22 @@
+.list-header {
+    padding: 52px 0 0 0;
+    font-size: 50px;
+    font-weight: 300;
+}
+
+.back-to-homepage {
+    font-size: 10px;
+    font-weight: 500;
+    color: #B1ABAB;
+    margin-bottom: 20px;
+}
+
+.homepage-url {
+    all: unset;
+    text-decoration: underline;
+}
+
+.homepage-url:hover {
+    cursor: pointer;
+    font-weight: 600;
+}
