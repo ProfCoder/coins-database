@@ -1,6 +1,4 @@
-# Module 4 project – Movie organizer.
-
-Starter for Module 4 project in Algoritmika Coding Bootcamp
+# Module 5 project: Final Bootcamp Project – Coin Database
 
 ## How to run
 
